@@ -24,7 +24,7 @@ Autodesk Fusion 360 installed on your machine.
 9. The script will then export each sub-component to the specified folder with its name.
    
 # Notes
-
+- The descriptions and code are written by ChatGPT 4.0 Ver.Aug.3
 - Ensure your design is saved before running the script.
 - Always back up your work before using any scripts to prevent potential loss.
 - This script assumes a single top-level component with multiple sub-components. Adjustments might be necessary based on your specific design structure or requirements.
