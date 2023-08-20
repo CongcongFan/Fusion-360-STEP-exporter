@@ -1,17 +1,17 @@
-## Fusion 360: Batch Export Components as STEP Files
+# Fusion 360: Batch Export Components as STEP Files
 
 This script provides an automated solution for Fusion 360 users who need to export multiple sub-components as separate STEP files.
 
-# Description
+## Description
 
 - The provided Python script automates the process of exporting all sub-components in a Fusion 360 design as individual STEP files. 
 - When you run the script, it prompts the user to select a directory. Each sub-component is then saved as a .step file in the chosen directory, using the name of the component as the filename.
 
-# Prerequisites
+## Prerequisites
 
 Autodesk Fusion 360 installed on your machine.
 
-# How to Use
+## How to Use
 
 1. Open Fusion 360.
 2. Navigate to Tools > Add-Ins > Scripts and Add-ins.
